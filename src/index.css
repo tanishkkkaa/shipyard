@@ -1,0 +1,6 @@
+.custom-background{
+    background-image: url('images/bg.png');  
+}
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
